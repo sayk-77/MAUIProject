@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yawai\\source\\repos\\converter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3CC7EA-6FCD-469F-8CE4-79326D9E8B5B}|converter\\converter.csproj|c:\\users\\yawai\\source\\repos\\converter\\converter\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3CC7EA-6FCD-469F-8CE4-79326D9E8B5B}|converter\\converter.csproj|solutionrelative:converter\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3CC7EA-6FCD-469F-8CE4-79326D9E8B5B}|converter\\converter.csproj|c:\\users\\yawai\\source\\repos\\converter\\converter\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3CC7EA-6FCD-469F-8CE4-79326D9E8B5B}|converter\\converter.csproj|solutionrelative:converter\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3CC7EA-6FCD-469F-8CE4-79326D9E8B5B}|converter\\converter.csproj|c:\\users\\yawai\\source\\repos\\converter\\converter\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BE3CC7EA-6FCD-469F-8CE4-79326D9E8B5B}|converter\\converter.csproj|solutionrelative:converter\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\yawai\\source\\repos\\converter\\converter\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "converter\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\yawai\\source\\repos\\converter\\converter\\MauiProgram.cs",
+              "RelativeToolTip": "converter\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T18:32:25.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\yawai\\source\\repos\\converter\\converter\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "converter\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\yawai\\source\\repos\\converter\\converter\\MainPage.xaml.cs",
+              "RelativeToolTip": "converter\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvwsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T18:32:18.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\yawai\\source\\repos\\converter\\converter\\MainPage.xaml",
+              "RelativeDocumentMoniker": "converter\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\yawai\\source\\repos\\converter\\converter\\MainPage.xaml",
+              "RelativeToolTip": "converter\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-04T18:32:08.286Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

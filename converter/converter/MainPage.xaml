@@ -1,0 +1,51 @@
+﻿<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TemperatureConverter.MainPage"
+             Title="Конвертер температур">
+
+    <VerticalStackLayout Padding="20" Spacing="15">
+        <!-- Ввод температуры -->
+        <Entry x:Name="TemperatureEntry"
+               Placeholder="Введите температуру"
+               Keyboard="Numeric"
+               HorizontalTextAlignment="Center"
+               FontSize="18"/>
+
+        <!-- Выбор шкалы -->
+        <Picker x:Name="FromScalePicker"
+                Title="Из шкалы"
+                FontSize="18">
+            <Picker.ItemsSource>
+                <x:Array Type="{x:Type x:String}">
+                    <x:String>Цельсий</x:String>
+                    <x:String>Фаренгейт</x:String>
+                    <x:String>Кельвин</x:String>
+                </x:Array>
+            </Picker.ItemsSource>
+        </Picker>
+
+        <Picker x:Name="ToScalePicker"
+                Title="В шкалу"
+                FontSize="18">
+            <Picker.ItemsSource>
+                <x:Array Type="{x:Type x:String}">
+                    <x:String>Цельсий</x:String>
+                    <x:String>Фаренгейт</x:String>
+                    <x:String>Кельвин</x:String>
+                </x:Array>
+            </Picker.ItemsSource>
+        </Picker>
+
+        <!-- Кнопка конвертации -->
+        <Button Text="Конвертировать"
+                FontSize="18"
+                Clicked="OnConvertClicked"/>
+
+        <!-- Результат -->
+        <Label x:Name="ResultLabel"
+               Text="Результат появится здесь"
+               FontSize="18"
+               HorizontalTextAlignment="Center"
+               VerticalOptions="CenterAndExpand"/>
+    </VerticalStackLayout>
+</ContentPage>
